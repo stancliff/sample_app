@@ -1,0 +1,24 @@
+1341692102
+About page	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
+Application	C:/Users/Mike/Documents/GitHub/sample_app/config/application.rb	  class Application 
+ApplicationController	C:/Users/Mike/Documents/GitHub/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Users/Mike/Documents/GitHub/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+Contact page	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	describe "Contact page" do
+Help page	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	describe "Help page" do
+Home page	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	describe "Home page" do
+SampleApp	C:/Users/Mike/Documents/GitHub/sample_app/config/application.rb	module SampleApp
+Static pages	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	describe "Static pages" do
+StaticPagesController	C:/Users/Mike/Documents/GitHub/sample_app/app/controllers/static_pages_controller.rb	class StaticPagesController 
+StaticPagesHelper	C:/Users/Mike/Documents/GitHub/sample_app/app/helpers/static_pages_helper.rb	module StaticPagesHelper
+about	C:/Users/Mike/Documents/GitHub/sample_app/app/controllers/static_pages_controller.rb	  def about
+contact	C:/Users/Mike/Documents/GitHub/sample_app/app/controllers/static_pages_controller.rb	  def contact
+help	C:/Users/Mike/Documents/GitHub/sample_app/app/controllers/static_pages_controller.rb	  def help
+home	C:/Users/Mike/Documents/GitHub/sample_app/app/controllers/static_pages_controller.rb	  def home
+should have the content 'About Us'	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	it "should have the content 'About Us'" do
+should have the content 'Contact'	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	it "should have the content 'Contact'" do
+should have the content 'Help'	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	it "should have the content 'Help'" do
+should have the content 'Sample App'	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	it "should have the content 'Sample App'" do
+should have the right title	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	it "should have the right title" do
+should have the title 'About Us'	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'About Us'" do
+should have the title 'Contact'	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Contact'" do
+should have the title 'Help'	C:/Users/Mike/Documents/GitHub/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Help'" do
